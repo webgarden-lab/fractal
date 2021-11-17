@@ -295,7 +295,8 @@ class Scope implements \JsonSerializable
     /**
      * @return array
      */
-    public function jsonSerialize(): mixed
+    #[\ReturnTypeWillChange]
+    public function jsonSerialize()
     {
         return $this->toArray();
     }
