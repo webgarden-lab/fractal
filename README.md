@@ -1,3 +1,6 @@
+# DEPRECATED, use official repository
+https://github.com/thephpleague/fractal/issues/526#issuecomment-1062974404
+
 # Fractal
 
 [![Latest Version](https://img.shields.io/github/release/thephpleague/fractal.svg?style=flat-square)](https://github.com/thephpleague/fractal/releases)
